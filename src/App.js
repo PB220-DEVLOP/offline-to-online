@@ -3,11 +3,11 @@ import From from './components/Form/Form';
 import Navbar from './components/Navbar/Navbar';
 
 import Home from './components/Home/Home';
-import Jewellery from './view/Jewallary/Jewellery';
+import Grocery from './View/Grocery/Grocery';
 function App() {
   return (
    <>
-   <Home/>
+   <Grocery/>
    </>
   );
 }

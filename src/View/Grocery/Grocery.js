@@ -18,8 +18,6 @@ function Grocery() {
       <div className='container'>
       <div className='cont1'>
           <img src={vegi} className='rmage'/>
-         
-
         </div>
         </div>
        
@@ -34,16 +32,16 @@ function Grocery() {
      <div className='parent-container'>
     <div className='text-2'>
     <span>
-    Phone Number: 9356164401📞<br/>
-    Phone Number: 7666455326📞<br/>
-    Email: tannukurekar3@gmail.com📩<br/>
+    Phone Number📞: +9356164401<br/>
+    Phone Number📞: +7666455326<br/>
+    Email📩: tannukurekar3@gmail.com<br/>
         
    </span>
    </div>
 
    <div>
    <span className='text-3'>
-   ADDRESS: Vasudev Nagar,Nagpur
+   ADDRESS: Vasudev Nagar, Nagpur
     
    </span>
    </div>
